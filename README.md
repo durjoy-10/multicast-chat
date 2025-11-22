@@ -22,7 +22,7 @@ A real-time multicast chat application built with Python, Flask, and WebSockets 
 
 ```bash
 cd server
-python3 run_server.py
+python3 app.py
 ```
 
 This installs server dependencies (from `server/requirements.txt`) and starts the Socket.IO server on port 5000.
